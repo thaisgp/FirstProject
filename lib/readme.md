@@ -1,1 +1,3 @@
 aqui vão os gits dos projetos que serão usados por esse programa
+
+testando o close issue
