@@ -16,6 +16,10 @@ Para o curso de git temos que saber vc code e markdown
 
 Tambem temos de ter conta no git hub
 
+## Metodologia 
+
+lala
+
 ## Conclusão
 
 Terminei meu arquivo readme
