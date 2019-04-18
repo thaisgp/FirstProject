@@ -1,32 +1,28 @@
-# Esse é o README do ProjetoNovo
+# Esse é o README do FirstProject
 
-## Intro
+## Introdução
 
-a introdução deste arquivo introduz o que será dito
-
-lalalala
+Esse repositório servirá para praticar os conceitos aprendidos no curso de GIT de 16 a 18 de abril de 2019.
 
 ## Descrição das atividades
 
-Estou descrevendo as atividades , as atividades são as mesmas da aula passada
+Nesse projeto iremos aprender a utilizar a linguagem Markdown.
+
 
 ## Requisitos
 
-Para o curso de git temos que saber vc code e markdown 
+* Possuir uma conta github
+* Possir um editor de texto .md
 
-Tambem temos de ter conta no git hub
 
-## Metodologia 
 
-lalalalalalala
-lalalla
-lalala
-
+## Objetivos
+* Criar sumário
+* Criar tabelas
+* Inserir imagens
+* Destacar textos em itálico e negrito
+* Inserir referências
+* Inserir trechos de código
 
 ## Conclusão
-
-Terminei meu arquivo readme
-
-
-## Edite
-
+Com este projeto pretende-se conehcer mais recursos da linguagem markdown de modo a utiliza-la corretamente em todos os outros projetos do nosso git.
