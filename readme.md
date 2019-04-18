@@ -8,6 +8,10 @@ Esse repositório servirá para praticar os conceitos aprendidos no curso de GIT
 
 Nesse projeto iremos aprender a utilizar a linguagem Markdown.
 
+## Colaboradores
+Thaís Gomes Pedrosa
+
+Paulo Eduardo Burke
 
 ## Requisitos
 
