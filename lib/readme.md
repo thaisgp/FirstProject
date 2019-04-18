@@ -1,3 +1,4 @@
-aqui vão os gits dos projetos que serão usados por esse programa
+# Bibliotecas desse repositório 
+Aqui estarão dispostas as bibliotecas e seu propósito 
 
-testando o close issue
+**Ainda não há bibliotecas adicionadas**
